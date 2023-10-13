@@ -7,3 +7,6 @@ Abstract : We propose and demonstrate a holographic imaging scheme exploiting ra
 
 <img width="943" alt="Screenshot 2023-10-13 at 4 43 59 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/b0080a7e-fb20-48ed-9ac9-af11636502bf">
 
+<img width="1046" alt="Screenshot 2023-10-13 at 4 44 44 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/8bc2728e-6a25-469b-b6ef-86205d977f98">
+
+<img width="819" alt="Screenshot 2023-10-13 at 4 45 02 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/0fa332d4-1294-4543-82ac-eb3d74026940">
