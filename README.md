@@ -34,7 +34,8 @@ Spherical light function
   
 ## Experimental Setup
 <img width="626" alt="Screenshot 2023-10-13 at 4 43 59 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/21ebb0f2-2a54-46ac-810a-3657c6ead6d3">
- SF: Spatial filter, L1 and L2:Lens with focal lengths 200 and 100 mm respectively, BS: Beam splitter, SLM: Spatial light modulator, RGG: Rotating ground glass, A1 and A2:Apertures, CMOS Camera: Complementary metal oxide semiconductor camera.
+
+SF: Spatial filter, L1 and L2:Lens with focal lengths 200 and 100 mm respectively, BS: Beam splitter, SLM: Spatial light modulator, RGG: Rotating ground glass, A1 and A2:Apertures, CMOS Camera: Complementary metal oxide semiconductor camera.
 
 <img width="1046" alt="Screenshot 2023-10-13 at 4 44 44 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/8bc2728e-6a25-469b-b6ef-86205d977f98">
 
