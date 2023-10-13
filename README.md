@@ -1,9 +1,7 @@
 # Random-Illumination-HolographyDL
 Deep learning for holographic imaging with random illuminations. Uses autoencoders for twin image removal and blind single-shot reconstruction without needing ground truth.
 
-The repository displays the associated code for the research paper:
-
-Paper :[Manisha, Aditya Chandra Mandal, Mohit Rathor, Zeev Zalevsky, and Rakesh Kumar Singh. "Randomness assisted in-line holography with deep learning." Scientific Reports 13, no. 1 (2023): 10986](https://www.nature.com/articles/s41598-023-37810-w)
+The repository displays the associated code for the research paper:  [Manisha, Aditya Chandra Mandal, Mohit Rathor, Zeev Zalevsky, and Rakesh Kumar Singh. "Randomness assisted in-line holography with deep learning." Scientific Reports 13, no. 1 (2023): 10986](https://www.nature.com/articles/s41598-023-37810-w)
 
 If you have any question, please contact the author: krakeshsingh.phy@iitbhu.ac.in
 
