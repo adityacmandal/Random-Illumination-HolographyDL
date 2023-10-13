@@ -8,6 +8,30 @@ If you have any question, please contact the author: krakeshsingh.phy@iitbhu.ac.
 ## Abstract : 
 We propose and demonstrate a holographic imaging scheme exploiting random illuminations for recording hologram and then applying numerical reconstruction and twin image removal. We use an in-line holographic geometry to record the hologram in terms of the second-order correlation and apply the numerical approach to reconstruct the recorded hologram. This strategy helps to reconstruct high-quality quantitative images in comparison to the conventional holography where the hologram is recorded in the intensity rather than the second-order intensity correlation. The twin image issue of the in-line holographic scheme is resolved by an unsupervised deep learning based method using an auto-encoder scheme. Proposed learning technique leverages the main characteristic of autoencoders to perform blind single-shot hologram reconstruction, and this does not require a dataset of samples with available ground truth for training and can reconstruct the hologram solely from the captured sample. Experimental results are presented for two objects, and a comparison of the reconstruction quality is given between the conventional inline holography and the one obtained with the proposed technique.
 
+##File List:
+
+##Requirement:
+- GPU memory > 8 GB
+- Python version: 3.10.12
+Installation:
+PyTorch (version 2.0.1 with CUDA 11.8)
+
+For Anaconda: `conda install pytorch==2.0.1 torchvision==0.15.2+cu118 -c pytorch`
+
+For pip: `pip install torch===2.0.1 torchvision===0.15.2+cu118 -f https://download.pytorch.org/whl/torch_stable.html`
+
+OpenCV for Python: `pip install opencv-contrib-python`
+
+Torchsummary: `pip install torchsummary`
+
+## Here are the optical parameters provided in `main.py`:
+Spherical light function 
+- Hologram size Nx, Ny: Nx = 600, Ny = 600
+- Object-sensor distance z: z = 200000 (um)
+- Object-sensor distance wavelength: wavelength = 0.6328 (um)
+- Wavelength of light deltaX, deltaY: deltaX = 1.67, deltaY = 1.67
+- To configure your parameters, please access the main.py file and adjust them
+
 <img width="943" alt="Screenshot 2023-10-13 at 4 43 59 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/b0080a7e-fb20-48ed-9ac9-af11636502bf">
 
 <img width="1046" alt="Screenshot 2023-10-13 at 4 44 44 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/8bc2728e-6a25-469b-b6ef-86205d977f98">
