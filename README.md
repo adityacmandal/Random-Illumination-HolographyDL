@@ -29,7 +29,7 @@ Spherical light function
 - Hologram size Nx, Ny: Nx = 600, Ny = 600
 - Object-sensor distance z: z = 200000 (um)
 - wavelength: wavelength = 0.6328 (um)
--  pixel size, deltaX, deltaY: deltaX = 1.67, deltaY = 1.67
+-  pixel size, deltaX, deltaY: deltaX = 5.3 , deltaY = 5.3
 - To configure your parameters, please access the main.py file and adjust them
 
 <img width="943" alt="Screenshot 2023-10-13 at 4 43 59 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/b0080a7e-fb20-48ed-9ac9-af11636502bf">
