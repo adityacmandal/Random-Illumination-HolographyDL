@@ -3,7 +3,9 @@ Deep learning for holographic imaging with random illuminations. Uses autoencode
 
 The repository displays the associated code for the research paper:  [Manisha, Aditya Chandra Mandal, Mohit Rathor, Zeev Zalevsky, and Rakesh Kumar Singh. "Randomness assisted in-line holography with deep learning." Scientific Reports 13, no. 1 (2023): 10986](https://www.nature.com/articles/s41598-023-37810-w)
 
-If you have any question, please contact the author: krakeshsingh.phy@iitbhu.ac.in [lab Site](https://www.informationphotonics.com/)
+If you have any question, please contact the author: krakeshsingh.phy@iitbhu.ac.in 
+
+Lab site : [Laboratory of Information Photonics & Optical Metrology](https://www.informationphotonics.com/)
 
 ## Abstract : 
 We propose and demonstrate a holographic imaging scheme exploiting random illuminations for recording hologram and then applying numerical reconstruction and twin image removal. We use an in-line holographic geometry to record the hologram in terms of the second-order correlation and apply the numerical approach to reconstruct the recorded hologram. This strategy helps to reconstruct high-quality quantitative images in comparison to the conventional holography where the hologram is recorded in the intensity rather than the second-order intensity correlation. The twin image issue of the in-line holographic scheme is resolved by an unsupervised deep learning based method using an auto-encoder scheme. Proposed learning technique leverages the main characteristic of autoencoders to perform blind single-shot hologram reconstruction, and this does not require a dataset of samples with available ground truth for training and can reconstruct the hologram solely from the captured sample. Experimental results are presented for two objects, and a comparison of the reconstruction quality is given between the conventional inline holography and the one obtained with the proposed technique.
