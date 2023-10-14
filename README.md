@@ -33,6 +33,9 @@ Spherical light function
 - wavelength: wavelength = 0.6328 (um)
 -  pixel size, deltaX, deltaY: deltaX = 5.3 , deltaY = 5.3
 - To configure your parameters, please access the main.py file and adjust them
+
+## Training:
+Model was implemented using the PyTorch framework and runs on a GPU workstation with an Nvidia tesla P100 graphics card. The Adam optimization algorithm is utilized with a fixed learning rate of 0.005. Use the training process for 4000 iterations until we get the final reconstruction. The entire training process takes approximately 731 seconds to complete.
   
 ## Experimental Setup
 <img width="626" alt="Screenshot 2023-10-13 at 4 43 59 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/21ebb0f2-2a54-46ac-810a-3657c6ead6d3">
