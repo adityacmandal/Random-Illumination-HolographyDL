@@ -37,6 +37,7 @@ Spherical light function
 - To configure your parameters, please access the main.py file and adjust them
 
 ## Training:
+
 Model was implemented using the PyTorch framework and runs on a GPU workstation with an Nvidia tesla P100 graphics card. The Adam optimization algorithm is utilized with a fixed learning rate of 0.005. Use the training process for 4000 iterations until we get the final reconstruction. The entire training process takes approximately 731 seconds to complete.
   
 ## Experimental Setup
@@ -44,8 +45,7 @@ Model was implemented using the PyTorch framework and runs on a GPU workstation 
 
 SF: Spatial filter, L1 and L2:Lens with focal lengths 200 and 100 mm respectively, BS: Beam splitter, SLM: Spatial light modulator, RGG: Rotating ground glass, A1 and A2:Apertures, CMOS Camera: Complementary metal oxide semiconductor camera.
 
-<img width="626" alt="Screenshot 2023-10-13 at 4 43 59 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/8d8ec4ee-ce1e-499d-a87f-9c78445eb9cb">
-
+<img width="1040" alt="Screenshot 2023-10-13 at 4 44 44 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/abf33619-e744-448a-81af-e474635d9407">
 A flow chart for the proposed scheme.
 
 <img width="1073" alt="Screenshot 2023-10-13 at 4 44 22 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/b4a3491a-d936-4cac-8190-c20441679fb1">
