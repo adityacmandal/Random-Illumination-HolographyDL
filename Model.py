@@ -6,12 +6,12 @@ import numpy as np
 class PropagationLoss(nn.Module):
     def __init__(self):
         super(PropagationLoss, self).__init__()
-        self.Nx = 1000
-        self.Ny = 1000
-        self.z = 857
-        self.wavelength = 0.635
-        self.deltaX = 1.67
-        self.deltaY = 1.67
+        self.Nx = 600
+        self.Ny = 600
+        self.z = 200000
+        self.wavelength = 0.6328
+        self.deltaX = 5.3
+        self.deltaY = 5.3
         self.prop = self._compute_propagator(self.Nx, self.Ny, self.z, self.wavelength, self.deltaX, self.deltaY).cuda()
 
     def _compute_propagator(self, Nx, Ny, z, wavelength, deltaX, deltaY):
