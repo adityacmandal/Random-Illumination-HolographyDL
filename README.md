@@ -24,7 +24,7 @@ OpenCV for Python: `pip install opencv-contrib-python`
 
 Torchsummary: `pip install torchsummary`
 
-## Here are the optical parameters provided in `main.py`:
+## Here are the optical parameters provided in `Main.py`:
 Spherical light function 
 - Hologram size Nx, Ny: Nx = 600, Ny = 600
 - Object-sensor distance z: z = 200000 (um)
