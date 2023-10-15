@@ -43,14 +43,14 @@ Model was implemented using the PyTorch framework and runs on a GPU workstation 
 ## Experimental Setup
 <img width="626" alt="Screenshot 2023-10-13 at 4 43 59 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/21ebb0f2-2a54-46ac-810a-3657c6ead6d3">
 
-SF: Spatial filter, L1 and L2:Lens with focal lengths 200 and 100 mm respectively, BS: Beam splitter, SLM: Spatial light modulator, RGG: Rotating ground glass, A1 and A2:Apertures, CMOS Camera: Complementary metal oxide semiconductor camera.
+SF: Spatial filter, L1 and L2:Lens with focal lengths 200 and 100 mm respectively, BS: Beam splitter, SLM: Spatial light modulator, RGG: Rotating ground glass, A1 and A2:Apertures, CMOS Camera: Complementary metal oxide semiconductor camera [paper.](https://www.nature.com/articles/s41598-023-37810-w)
 
 <img width="1040" alt="Screenshot 2023-10-13 at 4 44 44 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/abf33619-e744-448a-81af-e474635d9407">
 
-A flow chart for the proposed scheme.
+A flow chart for the proposed scheme [paper.](https://www.nature.com/articles/s41598-023-37810-w).
 
 <img width="1073" alt="Screenshot 2023-10-13 at 4 44 22 PM" src="https://github.com/adityacmandal/Random-Illumination-HolographyDL/assets/95050827/b4a3491a-d936-4cac-8190-c20441679fb1">
 
-An auto-encoder network utilizing deep convolutional layers in an hourglass architecture.
+An auto-encoder network utilizing deep convolutional layers in an hourglass architecture [paper.](https://www.nature.com/articles/s41598-023-37810-w).
 
 
